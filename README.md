@@ -1,4 +1,4 @@
-# ESOCombatAutoLoot Version 0.0.1
+# ESOCombatAutoLoot v0.0.1
 A simple addon for The Elder Scrolls Online which enables Auto-Loot during combat.
 The settings value at the time of entering combat is restored upon exit. (It won't turn off Auto-Loot if it is already enabled).
 
