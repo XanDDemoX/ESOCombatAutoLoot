@@ -1,7 +1,7 @@
 ESOCombatAutoLoot v0.0.1
 By XanDDemoX
 
-A simple addon for which enables Auto-Loot during combat.
+A simple addon which enables Auto-Loot during combat.
 The value of the Auto-Loot setting at the time of entering combat is restored upon leaving combat. (It won't turn off Auto-Loot if it is already enabled).
 
 Change Log
