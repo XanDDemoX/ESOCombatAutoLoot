@@ -1,6 +1,6 @@
-## Title: Combat Auto Loot v0.0.1
+## Title: Combat Auto Loot v0.0.2
 ## Author: XanDDemoX
-## Version 0.0.1
+## Version 0.0.2
 
 ## APIVersion: 100011
 ## SavedVariables: CombatAutoLoot_SavedVariables
